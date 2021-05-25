@@ -2,6 +2,8 @@
 
 https://www.eventbrite.com/e/jupyter-microscopy-and-on-demand-dask-cloud-clusters-tickets-153332205755
 
+## Introduction
+
 Matt McCormick, who works at Kitware maintaining the Insight Toolkit (ITK) library, joins Hugo Bowne-Anderson to discuss large-scale microscopic image visualization and analysis with on-demand Dask cloud clusters.
 
 Web-based methods are well-suited to solve scientific microscopy challenges such as large images, remote datasets, and reproducibility.
@@ -15,3 +17,13 @@ After attending, you’ll know:
 - How to store your images for distributed processing with Dask and the PyData stack
 
 Join us Thursday, May 27th at 5 pm US Eastern time by signing up here and dive into the wonderful world of large-scale microscopic image visualization and analysis with Dask!
+
+## Installation
+
+[Install mambaforge](https://github.com/conda-forge/miniforge), then:
+
+```
+mamba env create --file environment.yml --name coiled-itk
+mamba activate coiled-itk
+python -m jupyter notebook
+```
