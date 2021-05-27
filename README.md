@@ -1,6 +1,9 @@
 # Jupyter, Microscopy, and On-demand Dask Cloud Clusters
 
-https://www.eventbrite.com/e/jupyter-microscopy-and-on-demand-dask-cloud-clusters-tickets-153332205755
+[Event Description](https://www.eventbrite.com/e/jupyter-microscopy-and-on-demand-dask-cloud-clusters-tickets-153332205755)
+
+[Presentation
+Slides](https://docs.google.com/presentation/d/e/2PACX-1vRK0wa2rEUmL-y6CS6u6hOpk8RnPiHca96ZRtHccaTMza9gwH0oxbPY7swkkqlr7Lhb_Lw-avINUz-d/pub?start=false&loop=false&delayms=3000)
 
 ## Introduction
 
